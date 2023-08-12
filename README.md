@@ -9,8 +9,6 @@ A era digital e tecnológica em que vivemos tem demandado cada vez mais profissi
 
 - Lógica de Programação
 
-- Inglês Básico
-
 - Ambiente de Desenvolvimento
 
 - Motivação e Interesse
