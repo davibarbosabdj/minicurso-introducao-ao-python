@@ -38,12 +38,12 @@ Em resumo, o minicurso "Introdução à Programação em Python" oferece uma abo
 
 ## Autores
 
-- [@davibarbosabdj](https://github.com/davibarbosabdj)
-- [@kurtschleich](https://github.com/kurt-schleich)
+- [@João Barbosa](https://www.linkedin.com/in/joaodavi-ufc/)
+- [@Kurt Schleich](https://github.com/kurt-schleich)
 
 ## Orientadores
 
-- [@anderson Uchôa](https://www.linkedin.com/in/andersongnuchoa/)
+- [@Anderson Uchôa](https://www.linkedin.com/in/andersongnuchoa/)
 - [@Elisângela Rodrigues](https://www.linkedin.com/in/elis%C3%A2ngela-rodrigues-13a889190/)
 
 ## 🌐 Projeto ENGEDADOS 
