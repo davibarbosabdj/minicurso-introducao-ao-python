@@ -33,7 +33,7 @@ Em resumo, o minicurso "Introdução à Programação em Python" oferece uma abo
 ## Autores
 
 - [@davibarbosabdj](https://github.com/davibarbosabdj)
-
+- [@kurt schleich](https://github.com/kurt-schleich)
 
 ## 🌐 Projeto ENGEDADOS 
 
