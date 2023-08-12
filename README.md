@@ -38,7 +38,7 @@ Em resumo, o minicurso "Introdução à Programação em Python" oferece uma abo
 
 ## Autores
 
-- [@João Barbosa](https://www.linkedin.com/in/joaodavi-ufc/)
+- [@João Barbosa](https://www.linkedin.com/in/joaodavi-ufc/){:target="_blank"}
 - [@Kurt Schleich](https://github.com/kurt-schleich)
 
 ## Orientadores
