@@ -3,24 +3,32 @@
 
 A era digital e tecnológica em que vivemos tem demandado cada vez mais profissionais capacitados no campo da programação. Nesse contexto, o minicurso "Introdução à Programação em Python" surge como uma oportunidade imperdível para aqueles que desejam dar os primeiros passos no mundo da programação de forma acessível e eficaz. O Python, com suas características amigáveis e versatilidade, é a escolha ideal para quem está começando a explorar o vasto universo da codificação.
 
+### 📝 Pré-requisitos
+
+- Conhecimento Básico de Computação
+
+- Lógica de Programação
+
+- Inglês Básico
+
+- Ambiente de Desenvolvimento
+
+- Motivação e Interesse
+
+
 ### 🚀 Objetivos:
 
 O principal objetivo deste minicurso é fornecer uma base para que os participantes possam iniciar sua jornada na programação utilizando a linguagem Python. Para alcançar esse objetivo, os seguintes pontos serão abordados:
 
-#### Introdução à Programação e Python:
-Iniciaremos com uma visão abrangente da linguagem Python, explorando suas características distintivas que a tornam uma das linguagens de programação mais requisitadas e amplamente utilizadas na atualidade. Essa introdução permitirá que os participantes compreendam por que Python é a escolha ideal para iniciantes e profissionais experientes.
+- Introdução à Programação e Python
 
-#### Primeiros Passos em Python:
-Aprender a configurar o ambiente de desenvolvimento é o primeiro passo para criar programas Python. O minicurso guiará os alunos pela instalação do Python e pela configuração do ambiente de codificação. Além disso, eles aprenderão a utilizar a função print() para exibir informações na tela. A exploração de variáveis e tipos de dados básicos, como inteiros, strings e booleanos, solidificará a compreensão dos conceitos fundamentais.
+- Primeiros Passos em Python
 
-#### Estruturas de Dados:
-Para lidar com informações de maneira eficiente, é essencial compreender as estruturas de dados. O minicurso explorará o uso de listas para armazenar, manipular e percorrer conjuntos de elementos. As tuplas, com seu conceito único, e os dicionários, com sua estrutura chave-valor, serão desvendados, permitindo que os alunos organizem e acessem dados de forma eficaz.
+- Estruturas de Dados
 
-#### Estruturas de Controle:
-Uma parte crucial da programação é a tomada de decisões e a repetição de tarefas. Os participantes serão apresentados às estruturas de decisão por meio dos comandos if, else e elif, permitindo que seus programas tomem ações diferentes com base em condições específicas. A introdução aos loops while e for capacitará os alunos a criar iterações eficazes em seus programas.
+- Estruturas de Controle
 
-#### Projeto Prático:
-Consolidando o aprendizado teórico, os participantes terão a oportunidade de aplicar todos os conceitos aprendidos no desenvolvimento de um projeto prático. Nesse projeto prático, eles irão construir uma calculadora, capaz de executar operações matemáticas básicas e explorar estruturas de decisão e repetição, enriquecendo assim sua compreensão da linguagem Python e sua habilidade de solucionar problemas reais.
+- Projeto Prático
 
 ### 📃 Metodologia:
 
@@ -33,7 +41,12 @@ Em resumo, o minicurso "Introdução à Programação em Python" oferece uma abo
 ## Autores
 
 - [@davibarbosabdj](https://github.com/davibarbosabdj)
-- [@kurt schleich](https://github.com/kurt-schleich)
+- [@kurtschleich](https://github.com/kurt-schleich)
+
+## Orientadores
+
+- [@anderson Uchôa](https://www.linkedin.com/in/andersongnuchoa/)
+- [@Elisângela Rodrigues](https://www.linkedin.com/in/elis%C3%A2ngela-rodrigues-13a889190/)
 
 ## 🌐 Projeto ENGEDADOS 
 
