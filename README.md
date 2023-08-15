@@ -52,6 +52,9 @@ O curso de "Introdução à Programação em Python" é uma realização orgulho
 
 O projeto ENGEDADOS se empenha em compartilhar conhecimento, promovendo uma interação enriquecedora entre técnicas e conceitos aplicáveis tanto a desafios internos quanto externos à UFC. Além disso, sua missão abrange o estímulo à formação de profissionais qualificados para o mercado de trabalho local, através da implementação de atividades diversificadas. Esta iniciativa representa um passo significativo rumo à difusão do saber e ao crescimento conjunto.
 
+## Feedback do Minicurso 
+[Feedback 😊](https://forms.gle/iE2rEYbUFKDJ3DXy9)
+
 
 
 
